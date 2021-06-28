@@ -1,6 +1,6 @@
  <head>
   <meta charset="utf-8">
-  <title>Java Register Login System</title>
+  Java Register Login System
 </head> 
 
 <body>
